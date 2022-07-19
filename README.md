@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on python devops technologies!
-- 🌱 I’m currently learning Github Actions, AWS Devops Pipelines 
+- 🔭 I’m currently working on python devops technologies!
+- 🌱 I’m currently learning Github Actions, AWS Devops Pipelines
 
 <!--
 **rudiheydra/rudiheydra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
